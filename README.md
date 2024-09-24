@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @joeshawky
-- 🌱 I’m currently learning C# - DOT.NET Core- MVC
 - 📫 You can reach me by sending an email to youssefmetawe0@gmail.com
 
 <!---
